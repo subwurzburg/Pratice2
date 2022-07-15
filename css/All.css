@@ -1,0 +1,207 @@
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.5;
+      box-sizing: border-box;
+    }
+
+    img {
+      vertical-align: middle;
+    }
+
+    .container {
+      width: 1200px;
+      margin: 0 auto;
+    }
+
+    .container h1 {
+      font-size: 80px;
+      line-height: 95px;
+      padding-top: 40px;
+      padding-bottom: 24px;
+      border-bottom: 2px solid black
+    }
+
+    .stickers {
+      margin: 48px 0px;
+    }
+
+    .title {
+      padding-bottom: 8px;
+      border-bottom: 1px solid black
+    }
+
+    .title_zh {
+      font-size: 32px;
+      line-height: 48px;
+      font-weight: bold;
+      display: inline-block;
+      margin-right: 16px;
+    }
+
+    .title_en {
+      font-size: 24px;
+      line-height: 36px;
+      font-weight: bold;
+      display: inline-block;
+      color: #A00404;
+      transform: translateY(-6px);
+    }
+
+    .detail ul {
+      margin-bottom: 64px;
+    }
+
+    .detail ul li:nth-child(1) {
+      margin-top: 16px;
+      font-size: 24px;
+      line-height: 36px;
+    }
+
+    .detail ul li:nth-child(2) {
+      margin-top: 24px;
+      font-size: 24px;
+      line-height: 36px;
+    }
+
+    .full {
+      width: 100%;
+      background-color: #415165;
+    }
+
+    .full_Title {
+      width: 996px;
+      margin: 0 auto;
+      padding-top: 24px;
+      border-bottom: 1px solid white;
+      text-align: center;
+    }
+
+    .full_zh {
+      display: inline-block;
+      color: white;
+      font-size: 32px;
+      line-height: 48px;
+      font-weight: bold;
+      margin-right: 16px;
+      margin-bottom: 8px;
+    }
+
+    .full_en {
+      display: inline-block;
+      color: white;
+      font-size: 24px;
+      line-height: 36px;
+      font-weight: bold;
+      margin-bottom: 8px;
+      transform: translateY(-6px);
+    }
+
+    .full_List {
+      width: 996px;
+      margin: 0 auto;
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+
+    .full_List ul {
+      margin: 0 auto;
+      padding-left: 24px;
+      border-left: 1px solid #96A9C4;
+      transform: translateX(39%);
+    }
+
+    .full_List li {
+      color: white;
+      line-height: 36px;
+      font-size: 24px;
+      text-align: left;
+      margin-bottom: 8px;
+    }
+    .full_List li:last-child {
+      margin-bottom: 0px;
+    }
+
+    .work {
+      margin-top: 64px;
+      margin-bottom: 80px;
+    }
+
+    .work ul {
+      margin-left: 24px;
+      padding-left: 24px;
+      border-left: 1px solid #96A9C4;
+    }
+
+    .work ul li {
+      font-weight: bold;
+      font-size: 24px;
+      line-height: 36px;
+      margin-bottom: 24px;
+    }
+
+    .work ul li:nth-child(1) {
+      margin-top: 16px;
+      margin-bottom: 0px;
+    }
+
+    .work ul li:nth-child(2) {
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 30px;
+    }
+
+    .work ul li:nth-child(6) {
+      margin-bottom: 0px;
+    }
+    .work ul li:nth-child(7) {
+      margin-bottom: 0px;
+    }
+
+    .contact {
+      width: 1200px;
+      margin: 0 auto;
+      padding-top: 24px;
+      text-align: center;
+      padding-bottom: 40px;
+    }
+
+    .contact_title {
+      border-bottom: 1px solid #FFFFFF;
+    }
+
+    .contact_zh {
+      display: inline-block;
+      color: white;
+      font-size: 32px;
+      line-height: 48px;
+      font-weight: bold;
+      margin-right: 16px;
+      margin-bottom: 8px;
+    }
+
+    .contact_en {
+      display: inline-block;
+      color: white;
+      font-size: 24px;
+      line-height: 36px;
+      font-weight: bold;
+      margin-bottom: 8px;
+      transform: translateY(-6px);
+    }
+
+    .contact ul li {
+      margin-top: 16px;
+      font-size: 24px;
+      line-height: 36px;
+      color: #FFFFFF
+    }
+    .contact ul li:nth-child(1) {
+      margin-top: 24px;
+      font-size: 24px;
+      line-height: 36px;
+      color: #FFFFFF
+    }
+
+    .contact ul li:last-child img{
+      margin-right: 24px;
+    }
